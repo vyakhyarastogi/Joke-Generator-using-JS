@@ -47,13 +47,5 @@ To demonstrate:
 
 ---
 
-### 📸 Screenshots
 
-| 🖼️ Interface | 😂 Joke Display |
-|-------------|-----------------|
-| ![UI](https://via.placeholder.com/300x150.png?text=Fake+Joke+UI) | ![Joke](https://via.placeholder.com/300x150.png?text=Why+do+devs+prefer+dark+mode...) |
-
----
-
-### 🗃️ Folder Structure
 
