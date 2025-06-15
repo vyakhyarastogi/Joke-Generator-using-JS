@@ -16,9 +16,7 @@ To demonstrate:
 ---
 
 ## 🔗 Live Site
-👉 https://fakejokeapp.vercel.app
-
-https://sparkling-centaur-844ab4.netlify.app/
+👉 https://sparkling-centaur-844ab4.netlify.app/
 
 ### 🔧 Tech Stack
 
