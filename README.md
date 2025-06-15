@@ -16,7 +16,7 @@ To demonstrate:
 ---
 
 ---
-Live Link: https://sparkling-centaur-844ab4.netlify.app/
+- Live Link: https://sparkling-centaur-844ab4.netlify.app/
 
 ### 🔧 Tech Stack
 
