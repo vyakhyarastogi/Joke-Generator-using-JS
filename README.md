@@ -15,8 +15,10 @@ To demonstrate:
 
 ---
 
----
-- Live Link: ### https://sparkling-centaur-844ab4.netlify.app/
+## 🔗 Live Site
+👉 https://fakejokeapp.vercel.app
+
+https://sparkling-centaur-844ab4.netlify.app/
 
 ### 🔧 Tech Stack
 
